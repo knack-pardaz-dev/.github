@@ -219,7 +219,7 @@ Maintenance
 
 ## 👨‍💻 Technical Project Analysis
 
-**Mr. Morteza Zolfghari**
+**Mr. Zolfaghari**
 
 Technical Consultant & Software Engineer
 
