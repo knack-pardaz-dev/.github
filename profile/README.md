@@ -22,7 +22,7 @@ Building Premium Software, AI Solutions & Digital Transformation
 
 ---
 
-<img src="assets/banner.png"/>
+<img src="Baner.png"/>
 
 </div>
 
