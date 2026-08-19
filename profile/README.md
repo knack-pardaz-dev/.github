@@ -215,27 +215,6 @@ Maintenance
 
 ---
 
-# 👥 Team
-
-## 👨‍💻 Technical Project Analysis
-
-**Mr. Zolfaghari**
-
-Technical Consultant & Software Engineer
-
-📞 +98 913 862 1076
-
----
-
-## 👩‍💼 Business & Customer Relations
-
-**Ms. Moradipour**
-
-Business Consultant
-
-📞 +98 992 805 1354
-
----
 
 # 💬 Free Consultation
 
